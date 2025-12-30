@@ -99,6 +99,48 @@ Comprehensive food recommendation system built as part of a Software Engineering
 
 ---
 
+## 📦 Project Statistics
+
+<div align="center">
+
+### 🎯 Total Projects & Language Distribution
+
+| Category | Count | Languages |
+|----------|-------|-----------|
+| **Total Public Repositories** | 20+ | Multiple |
+| **Rust Projects** | 5+ | Rust, TOML |
+| **Python Projects** | 8+ | Python, FastAPI, Flask |
+| **Full-Stack Projects** | 6+ | TypeScript, JavaScript, React, Angular, Node.js |
+| **Backend Projects** | 7+ | Python, FastAPI, .NET, C#, Java |
+| **Frontend Projects** | 5+ | React, Angular, TypeScript, HTML, CSS |
+| **Research Projects** | 2+ | Python, Java, Various |
+
+### 💻 Projects by Primary Language
+
+<div align="center">
+
+![Rust](https://img.shields.io/badge/Rust-5%2B%20Projects-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8%2B%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-6%2B%20Projects-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-5%2B%20Projects-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-3%2B%20Projects-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-4%2B%20Projects-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+</div>
+
+### 📊 Project Categories
+
+- 🦀 **Systems Programming**: 5+ projects (Rust, CLI tools, system utilities)
+- 🌐 **Web Development**: 8+ projects (Full-stack applications, APIs, frontend)
+- 🤖 **Backend Services**: 7+ projects (REST APIs, GraphQL, microservices)
+- 🎨 **Frontend Applications**: 5+ projects (React, Angular, interactive UIs)
+- 🔬 **Research & Academic**: 2+ projects (Published research, course projects)
+- 🧪 **Testing & Quality**: Multiple projects with comprehensive test suites
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
