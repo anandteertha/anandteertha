@@ -103,9 +103,19 @@ Comprehensive food recommendation system built as part of a Software Engineering
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandteertha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+### 📈 GitHub Activity & Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandteertha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandteertha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=anandteertha&theme=radical&hide_border=true&background=0D1117&ring=FF006E&fire=FF006E&currStreakLabel=FF006E)
+
+### 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandteertha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
+
+### 📊 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anandteertha&theme=radical&hide_border=true&bg_color=0D1117&color=FF006E&line=FF006E&point=FFFFFF&area=true&area_color=FF006E)
 
 </div>
 
