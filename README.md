@@ -145,14 +145,9 @@ Comprehensive food recommendation system built as part of a Software Engineering
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandteertha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandteertha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=C9D1D9&langs_count=10&hide_progress=false&size_weight=0.5&count_weight=0.5" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=anandteertha&theme=tokyonight&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F8D866)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandteertha&theme=tokyonight" alt="GitHub Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anandteertha&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandteertha&theme=tokyonight" alt="Top Languages by Repo" />
 
 </div>
 
