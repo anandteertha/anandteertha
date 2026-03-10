@@ -145,14 +145,14 @@ Comprehensive food recommendation system built as part of a Software Engineering
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-tan-alpha.vercel.app/api?username=anandteertha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats-tan-alpha.vercel.app/api/top-langs/?username=anandteertha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=C9D1D9&langs_count=10&hide_progress=false&size_weight=0.5&count_weight=0.5" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandteertha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandteertha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=C9D1D9&langs_count=10&hide_progress=false&size_weight=0.5&count_weight=0.5" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-silk-gamma.vercel.app/?user=anandteertha&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anandteertha&theme=tokyonight&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F8D866)](https://git.io/streak-stats)
 
 </div>
 
